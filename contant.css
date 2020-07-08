@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: century;
+}
+
+}
+.header{
+  height: 100vh
+}
+.navbar-style{
+  box-shadow: 0 50x 10px #efefef;
+}
+.icon-bar{
+  background: black;
+}
