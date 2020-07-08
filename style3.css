@@ -1,0 +1,86 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: century;
+font-family: 'Poppins', sans-serif;
+}
+h1{color: white}
+.video-h1{
+   color: #fff
+}
+ul1{
+    color: #fff;
+
+
+}
+header{
+       background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("vid.jpg");
+       height: 100vh;
+       background-size: cover;
+       background-position: center;
+}
+.nav-item a{
+      color: #fff!important;
+      font-weight: bold;
+}
+
+.title {
+
+         position: absolute;
+
+         top: 50%;
+         left: 50%;
+         taransform: translate(-50%,-30%);
+       }
+.logo5 img{
+      float: left;
+      width: 150px;
+      height: auto;
+      margin-top: 24px;
+      margin-left: 25px;
+}
+.main{
+      max-width: 1300px;
+      margin: auto;
+}
+
+.button{
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-80%,-50%);
+}
+.btn{
+    border: 1px solid #fff;
+    padding: 10px 30px;
+    color:#fff;
+    text-decoration: none;
+    transition: 0.6s ease;
+}
+.btn:hover{
+  background-color: #fff;
+  color: #000;
+}
+
+
+}
+@media(min-width: 600px) {
+  ul1{
+     font-size: 1.2rem;
+  }
+}
+@media (min-width:800px) {
+  ul1{
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+}
+}
+
+body{
+     background: grey;
+}
+h4{
+   font-size: 12px;
+   font-color: balck:
+}
