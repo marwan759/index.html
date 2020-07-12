@@ -9,7 +9,10 @@ header{
        height: 100vh;
        background-size: cover;
        background-position: center;
-
+      background-color: blue
+}
+hr{
+  color: black
 }
 .nav-item a{
       color: #fff!important;
@@ -21,9 +24,9 @@ ul1{
 body{
    background-color: grey;
 }
-h{
+h1{
   font-size: 30px;
-    color:#ffff;
+    color:black;
 }
 
 body{
